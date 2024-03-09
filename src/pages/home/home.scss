@@ -1,0 +1,97 @@
+.hero__main_banner {
+  display: flex;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.hero__left_banner {
+  display: flex;
+  padding-left: 32px;
+  padding-top: 33px;
+  padding-right: 72px;
+  padding-bottom: 16px;
+  border-radius: 12px;
+  background: rgb(238, 244, 255);
+  position: relative;
+}
+
+.hero_banner_img {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.hero__title {
+  color: rgb(36, 36, 36);
+  font-family: "Cairo";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 45px;
+  margin-right: 61px;
+}
+
+.hero_card {
+  max-width: 261px;
+  padding-left: 24px;
+  padding-top: 32px;
+  padding-right: 38px;
+  padding-bottom: 38px;
+  background-color: rgb(55, 72, 166);
+  border-radius: 12px;
+  text-align: center;
+}
+
+.hero_card__title {
+  color: rgb(255, 255, 255);
+  font-family: "Cairo";
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  margin-bottom: 20px;
+}
+
+.hero_card__text {
+  color: rgb(255, 255, 255);
+  font-family: "Cairo";
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 77px;
+}
+
+.hero_card__btn {
+  border-radius: 14px;
+  background: rgb(255, 255, 255);
+  padding: 6px 24px;
+  border: none;
+  cursor: pointer;
+  color: rgb(36, 36, 36);
+  font-family: "Cairo";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 34px;
+}
+
+.service {
+  margin-top: 82px;
+}
+
+.service__container {
+  display: flex;
+  align-items: center;
+  gap: 42px;
+}
+
+.category {
+  margin-top: 80px;
+}
+
+.category_title {
+  margin-bottom: 32px;
+}
+
+.category_card__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}

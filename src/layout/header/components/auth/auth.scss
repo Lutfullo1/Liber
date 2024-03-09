@@ -1,0 +1,35 @@
+.header__auth {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: auto;
+}
+
+.header__lang {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.header__lang {
+  border-radius: 14px;
+  background: rgb(238, 244, 255);
+  padding-left: 16px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+}
+
+.auth_btn {
+  color: rgb(255, 255, 255);
+  font-family: "Cairo";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 34px;
+  border-radius: 14px;
+  background: rgb(63, 81, 181);
+  padding: 7px 24px 7px 24px;
+  border: none;
+  cursor: pointer;
+}

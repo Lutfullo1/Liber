@@ -1,0 +1,196 @@
+.product_card {
+  display: flex;
+  gap: 24px;
+  margin-top: 36px;
+}
+
+.product_content {
+  max-width: 960px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+
+.bottom__list {
+  display: flex;
+  gap: 69px;
+  margin-top: 16px;
+}
+
+.home_link {
+  color: rgb(63, 81, 181);
+  font-family: "Poppins";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 24px;
+}
+.product_title {
+  color: rgb(17, 20, 45);
+  font-family: "Cairo";
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 56px;
+}
+
+.product_text {
+  color: rgb(63, 81, 181);
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.text {
+  color: rgb(17, 20, 45);
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.bottom_title {
+  color: rgb(170, 170, 170);
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.bottom_text {
+  color: rgb(17, 20, 45);
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 25px;
+}
+
+.options {
+  display: flex;
+  gap: 16px;
+  margin-top: 35px;
+}
+
+.options_list {
+  border: 1px solid rgb(63, 81, 181);
+  border-radius: 14px;
+  padding: 10px 20px;
+  color: rgb(36, 36, 36);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.options_list:first-child {
+  background: rgb(63, 81, 181);
+  color: rgb(255, 255, 255);
+  font-family: "Cairo";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+}
+
+.desc_block {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.main_title {
+  color: rgb(17, 20, 45);
+  font-family: "Cairo";
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 60px;
+  margin-bottom: 16px;
+}
+.same_books__card {
+  display: flex;
+  gap: 30px;
+  max-width: 360px;
+  margin-bottom: 16px;
+}
+
+.same_books__content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.same_books__img {
+  max-width: 139px;
+}
+
+.same_books__title {
+  color: rgb(17, 20, 45);
+  font-family: "Cairo";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 34px;
+}
+
+.same_books__text {
+  color: rgb(63, 81, 181);
+  font-family: "Open Sans";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 19px;
+}
+
+.same_btn {
+  width: 100%;
+  border-radius: 14px;
+  border: none;
+  background: rgb(238, 244, 255);
+  padding: 10px 20px;
+  color: rgb(63, 81, 181);
+  font-family: "Cairo";
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 34px;
+  cursor: pointer;
+}
+
+.left_side {
+  display: flex;
+  gap: 60px;
+}
+
+.info_side li:first-child {
+  color: rgb(36, 36, 36);
+  font-family: "Cairo";
+  font-size: 38px;
+  font-weight: 700;
+  line-height: 60px;
+  margin-bottom: 16px;
+}
+
+.info_side li {
+  color: rgb(17, 20, 45);
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 18.51px;
+  margin-bottom: 25px;
+}
+
+.comment_side li:first-child {
+  color: rgb(154, 154, 154);
+  font-family: "Cairo";
+  font-size: 33px;
+  font-weight: 700;
+  line-height: 60px;
+  margin-bottom: 16px;
+}
+.comment_side li {
+  color: rgb(17, 20, 45);
+  font-family: "Open Sans";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 18.51px;
+  margin-bottom: 25px;
+}

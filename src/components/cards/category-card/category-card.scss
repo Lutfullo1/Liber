@@ -1,0 +1,14 @@
+.category_card {
+  position: relative;
+}
+
+.category_card__title {
+  position: absolute;
+  bottom: 17px;
+  left: 16px;
+  color: rgb(255, 255, 255);
+  font-family: "Cairo";
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 24px;
+}

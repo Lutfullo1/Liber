@@ -1,0 +1,21 @@
+<svg width="72.081512" height="42.333618" viewBox="0 0 72.0815 42.3336" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_6_5345_dd" x="0.000000" y="0.000000" width="72.081512" height="42.333618" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="2.2883"/>
+			<feGaussianBlur stdDeviation="2.47899"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.051 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_6_5345_dd)">
+		<rect id="Rectangle 240" x="7.723022" y="5.434692" rx="4.576604" width="56.635483" height="26.887552" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+	<rect id="Rectangle 240" x="7.723022" y="5.434692" rx="4.576604" width="56.635483" height="26.887552" stroke="#EFEFEF" stroke-opacity="1.000000" stroke-width="0.572076"/>
+</svg>
